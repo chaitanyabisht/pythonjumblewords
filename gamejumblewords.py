@@ -1,3 +1,4 @@
+#testing editing
 def play():
     p1=input("pls enter ur name player1")
     p2=input("pls enter ur name player2")
